@@ -68,9 +68,9 @@ Nhóm [Behavioral Pattern]()  này gồm có 11 mẫu thiết kế. Nó bao gồ
 - [Iterator]()
 - [Mediator]()
 - [Memento]()
-- [Observe](doc/Behavioral patterns/observer-pattern.md)
+- [Observe](https://github.com/diemphuoc-zanzy/design-pattern/blob/master/doc/Behavioral%20patterns/observer-pattern.md)
 - [State]()
-- [Strategy](doc/Behavioral patterns/strategy-pattern.md)
+- [Strategy](https://github.com/diemphuoc-zanzy/design-pattern/blob/master/doc/Behavioral%20patterns/strategy-pattern.md)
 - [Visitor]().
 
 Chức năng của nhóm là thực hiện các hành vi đối tượng. Sử dụng [Design Pattern]() để thực hiện tương tác giữa các Object với nhau.
