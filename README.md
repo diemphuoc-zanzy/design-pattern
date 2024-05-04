@@ -53,7 +53,7 @@ Nhóm [Structural Pattern]() này gồm có 7 mẫu thiết kế. Nó bao gồm:
 - [Bridge]()
 - [Composite]()
 - [Decorator]()
-- [Facade](https://github.com/diemphuoc-zanzy/design-pattern/blob/master/doc/Structural%20pattern/facade-pattern.md)
+- [Facade](https://github.com/diemphuoc-zanzy/design-pattern/blob/master/doc/Structural%20patterns/facade-pattern.md)
 - [Flyweight]()
 - [Proxy]()
 
