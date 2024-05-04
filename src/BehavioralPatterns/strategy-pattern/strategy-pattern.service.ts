@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Price } from '../dtos/price';
+import { Price } from './dtos/price';
 import { TypePromotion } from './common/constants';
 
 @Injectable()

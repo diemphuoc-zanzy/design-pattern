@@ -1,6 +1,6 @@
 import { Body, Controller, Get } from '@nestjs/common';
 import { StrategyPatternService } from './strategy-pattern.service';
-import { Price } from '../dtos/price';
+import { Price } from './dtos/price';
 
 @Controller('strategy-pattern')
 export class StrategyPatternController {
