@@ -1,11 +1,8 @@
 import { Module } from '@nestjs/common';
-import { StrategyPatternController } from './BehavioralPatterns/strategy-pattern/strategy-pattern.controller';
-import { StrategyPatternService } from './BehavioralPatterns/strategy-pattern/strategy-pattern.service';
 import { StrategyPatternModule } from './BehavioralPatterns/strategy-pattern/strategy-pattern.module';
+import { ObserverPatternModule } from './BehavioralPatterns/observer-pattern/observer-pattern.module';
 
 @Module({
-  imports: [StrategyPatternModule],
-  controllers: [StrategyPatternController],
-  providers: [StrategyPatternService],
+  imports: [StrategyPatternModule, ObserverPatternModule],
 })
 export class AppModule {}
